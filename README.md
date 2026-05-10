@@ -14,4 +14,3 @@ Tested by interacting with /dev/pcdev-1 through /dev/pcdev-4 directly from user 
 
 This project was a great first deep dive into how Linux abstracts hardware through the VFS, how character devices are registered and managed in kernel space, and the internals of file_operations dispatch. 
 
-Added on $(date)
