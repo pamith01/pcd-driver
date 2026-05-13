@@ -334,5 +334,5 @@ module_init(pcd_driver_init);
 module_exit(pcd_driver_cleanup);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("SWAROOP");
+MODULE_AUTHOR("Pamith");
 MODULE_DESCRIPTION("Pseudo character driver handling 'n' devices");
